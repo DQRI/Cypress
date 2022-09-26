@@ -1,10 +1,10 @@
 
 class LoginPage{
     enterAuthorizeEmail(){
-        cy.get('div[name="login"] input[name="email"]').type('example23456761123@gmail.com')
+        cy.get('div[name="login"] input[name="email"]').type('bobhambob123456@gmail.com')
     }
     enterPassword(){
-        cy.get('input[name="password"]').type('Telnyx123456@')
+        cy.get('input[name="password"]').type('Telnyx1234567@')
     }
     clickLogin(){
         cy.get('button[class*="LoginForm"]').click();   
