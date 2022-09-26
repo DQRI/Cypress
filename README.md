@@ -14,5 +14,5 @@ Cypress/cypress/fixtures/pages - page object files
 
 Cypress/cypress/helper/ - set of function for randomized data
 
-
+https://github.com/olkuzmenko/Cypress/actions/runs/3126767934 - pipeline
 
