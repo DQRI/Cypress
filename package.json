@@ -36,10 +36,7 @@
     "ci:set-port": "node ./scripts/set-port",
     "semantic-release": "semantic-release"
   },
-   "dependencies": {
-    "npm-run-all": "^4.1.2",
-    "serve": "11.3.0"
-  },
+  
   "devDependencies": {
     "@bahmutov/print-env": "1.2.0",
     "@cypress/eslint-plugin-dev": "5.0.0",
