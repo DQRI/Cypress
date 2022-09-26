@@ -1,4 +1,4 @@
-Cyprees project
+Cypress project
 
 Testcases for "telnyx.com":
 
